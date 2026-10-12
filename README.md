@@ -1,4 +1,4 @@
-Made with Unity.
+A short experimental game made with Unity.
 
 ## How to Play
 
